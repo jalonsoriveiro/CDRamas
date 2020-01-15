@@ -10,5 +10,8 @@ package cdramas;
  * @author jalonsoriveiro
  */
 public class Nueva {
-    
+ 
+   public void hola(){
+            System.out.println("hi");
+}
 }
